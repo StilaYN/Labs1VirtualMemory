@@ -1,0 +1,14 @@
+C:\Programming\C#\Программирование\Labs1VirtualMemory\bin\Debug\net7.0\Labs1VirtualMemory.exe
+C:\Programming\C#\Программирование\Labs1VirtualMemory\bin\Debug\net7.0\Labs1VirtualMemory.deps.json
+C:\Programming\C#\Программирование\Labs1VirtualMemory\bin\Debug\net7.0\Labs1VirtualMemory.runtimeconfig.json
+C:\Programming\C#\Программирование\Labs1VirtualMemory\bin\Debug\net7.0\Labs1VirtualMemory.dll
+C:\Programming\C#\Программирование\Labs1VirtualMemory\bin\Debug\net7.0\Labs1VirtualMemory.pdb
+C:\Programming\C#\Программирование\Labs1VirtualMemory\obj\Debug\net7.0\Labs1VirtualMemory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\Программирование\Labs1VirtualMemory\obj\Debug\net7.0\Labs1VirtualMemory.AssemblyInfoInputs.cache
+C:\Programming\C#\Программирование\Labs1VirtualMemory\obj\Debug\net7.0\Labs1VirtualMemory.AssemblyInfo.cs
+C:\Programming\C#\Программирование\Labs1VirtualMemory\obj\Debug\net7.0\Labs1VirtualMemory.csproj.CoreCompileInputs.cache
+C:\Programming\C#\Программирование\Labs1VirtualMemory\obj\Debug\net7.0\Labs1VirtualMemory.dll
+C:\Programming\C#\Программирование\Labs1VirtualMemory\obj\Debug\net7.0\refint\Labs1VirtualMemory.dll
+C:\Programming\C#\Программирование\Labs1VirtualMemory\obj\Debug\net7.0\Labs1VirtualMemory.pdb
+C:\Programming\C#\Программирование\Labs1VirtualMemory\obj\Debug\net7.0\Labs1VirtualMemory.genruntimeconfig.cache
+C:\Programming\C#\Программирование\Labs1VirtualMemory\obj\Debug\net7.0\ref\Labs1VirtualMemory.dll
